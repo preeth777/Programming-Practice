@@ -29,7 +29,6 @@ public class MissingNoFind {
 			} else 
 			{ left = middle + 1; 
 			} 
-		
 		} throw new RuntimeException("No missing number"); 
 	
 	} 
