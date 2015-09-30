@@ -3,9 +3,9 @@ package arrays.example;
 public class Arraymin {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		//find the minimum value in an array
-		// sum of the array elements
+		//sum of the array elements
 		//find the sum of all the even numbers in an array
 	   //array of 10 numbers
 
